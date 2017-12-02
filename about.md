@@ -9,7 +9,7 @@ Some information about you!
 
 ### More Information
 
-A places to include any other types of information that you'd like to include about yourself.
+A placest to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
